@@ -1,0 +1,30 @@
+python -m venv venv
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
+python live_transcribe.py
+
+python extract_pose_from_video.py
+
+python extract_poses.py
+
+.\venv39\Scripts\Activate.ps1
+
+ffmpeg -version
+
+
+I want to go”
+
+“Where is your chair”
+
+“Bring book and computer”
+
+“Drink water before you go”
+
+“Who is your cousin”
+
+“Do you like candy”
+

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@react-spring/three": "^10.0.1"
+  }
+}
